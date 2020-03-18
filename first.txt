@@ -1,0 +1,3 @@
+git init-command is used to intialize empty Git repository.we shall have to run it once in project lifetime
+
+this is the line.
